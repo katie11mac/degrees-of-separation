@@ -1,0 +1,3 @@
+Queries: 
+Kara John Lobna 
+Average Degree of Separation of entire group: 4.382335148215366
